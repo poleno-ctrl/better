@@ -1,0 +1,11 @@
+p{
+    border-left: 3px solid #ff6b6b;
+    padding: 0px 0px 0px 20px;
+}
+quote{
+    border-left: 3px solid #341f97;
+    border-right: 3px solid #341f97;
+    padding: 0px 20px 0px 20px;
+    width: 800px;
+    font-size: 16;
+}
